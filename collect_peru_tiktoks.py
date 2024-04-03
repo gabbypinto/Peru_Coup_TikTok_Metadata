@@ -1,7 +1,4 @@
 """
-author: Gabriela Pinto
-date: Feb 4, 2024
-
 This script calls the TikTok Research API to 
 collect the metadata
 """
