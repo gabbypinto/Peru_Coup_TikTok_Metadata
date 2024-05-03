@@ -6,7 +6,8 @@ This repository contains TikTok video metadata related to events after the attem
 - May 2, 2024: Added the transcripts for each video
 
 ## Data File 
-- peru_tiktok_metadata.csv
+- (version 1) peru_tiktok_metadata.csv
+- (current version 2) peru_tiktok_metadata_transcripts.csv
 
 ## Data Codes 
 - id: ID of the TikTok Post 
